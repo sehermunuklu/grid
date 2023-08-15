@@ -1,0 +1,151 @@
+.dortlukutu {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 10px;
+  grid-auto-rows: 30px;
+  grid-template-rows: 200px;
+}
+
+.one1 {
+  background: #ffffff;
+  border: 1px solid gray;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+.one1 p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.two2 {
+  background: #ffffff;
+  border: 1px solid gray;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+.two2 p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.three3 {
+  background: #ffffff;
+  border: 1px solid gray;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+.three3 p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.four {
+  background: #ffffff;
+  border: 1px solid gray;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+
+.four p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.ikilibuton1 {
+  padding: 8px 12px;
+  gap: 6px;
+  width: 150.67px;
+  height: 36px;
+  background: #ffffff;
+  border: 1px solid #dae0e6;
+  border-radius: 5px;
+}
+.ikilibutoniki2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 12px;
+  gap: 6px;
+  width: 150.67px;
+  height: 36px;
+  background: #437ef7;
+  color: #ffffff;
+  border: 1px solid #dae0e6;
+  border-radius: 5px;
+}
+.butonn {
+  gap: 10px;
+  display: flex;
+  padding-left: 1180px;
+  padding-bottom: 30px;
+}
+.brian {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 38px;
+  color: #272d37;
+}
+.happy {
+  color: #5f6d7e;
+}
+
+.eyes {
+  display: flex;
+  gap: 40px;
+}
+
+.raw {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin: 0 auto;
+  color: #dae0e6;
+}
+.eyes {
+  background-color: #437ef7;
+  height: 50px;
+  align-items: center;
+}
+.butoniki {
+  background-color: #437ef7;
+
+  justify-content: center;
+  align-items: center;
+  padding: 8px 12px;
+  gap: 6px;
+  width: 100px;
+  height: 36px;
+  color: #ffffff;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.log {
+  color: #dae0e6;
+}
